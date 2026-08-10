@@ -59,8 +59,9 @@ EXCLUDE = {
     "cooldown-privacy",
     USER,  # this repo: the board must not report on itself, or every scheduled
            # refresh promotes the refresh commit to the top row forever
-    f"{USER}-profile-archive",  # abandoned first attempt at this repo; pending
-                                # deletion, harmless to leave listed afterwards
+    f"{USER}-profile-archive",  # abandoned first attempt at this repo. Now private,
+                                # so the isPrivate filter already drops it; kept here
+                                # so it stays off the board if it is ever made public
 }
 
 
