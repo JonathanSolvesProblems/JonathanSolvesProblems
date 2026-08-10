@@ -1,9 +1,7 @@
 <img src="assets/banner.jpg" alt="Jonathan Andrei, Senior Full Stack Developer. github.com/JonathanSolvesProblems and jonathansolvesproblems.com. Python, TypeScript, React, Next.js, LLM Agents, RAG, AWS." width="100%">
 
 I build software that actually ships. Most of what is below started as a deadline and
-ended as something that runs: agentic flaky-test triage that took **1st place at UiPath
-AgentHack 2026**, WCAG audio description for entire video archives, and clinical decision
-support written back into FHIR behind a human approval gate.
+ended as something that runs, against real data, in front of real users.
 
 I work mostly in TypeScript and Python, lately on AI agents and developer tooling, and I
 care more about whether a thing survives contact with real input than about how clean it
