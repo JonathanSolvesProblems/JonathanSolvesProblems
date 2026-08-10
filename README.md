@@ -19,12 +19,12 @@ Details and selected work at [**jonathansolvesproblems.com**](https://jonathanso
 <!-- SHIPPING-LOG:START -->
 | Project | What it is | Stack |
 | --- | --- | --- |
+| **[coldpath](https://github.com/JonathanSolvesProblems/coldpath)** | Prove whether an Arm binary can actually use the chip's matrix hardware. Static ISA verifier +… | Python |
 | **[culprit](https://github.com/JonathanSolvesProblems/culprit)** | A stack trace for model decay. Walks DataHub's end-to-end ML lineage from a degraded production… | Python |
-| **[flakewarden](https://github.com/JonathanSolvesProblems/flakewarden)** | Agentic flaky-test triage and self-healing reviewer for UiPath Test Cloud. 90.7% triage accurac… | Python |
+| **[Motion-Capture-Hand](https://github.com/JonathanSolvesProblems/Motion-Capture-Hand)** | Hardware motion-capture hand that drives a rigged 3D hand in Blender in real time. An Arduino r… | C++ |
+| **[maternal-guard-prompt-opinion-hackathon](https://github.com/JonathanSolvesProblems/maternal-guard-prompt-opinion-hackathon)** | Winner, Agents Assemble: The Healthcare AI Endgame (4,335 participants). MCP server and clinici… | TypeScript |
+| **[flakewarden](https://github.com/JonathanSolvesProblems/flakewarden)** | 1st place, Test Cloud track, UiPath AgentHack 2026 (333+ submissions, 104 countries). Agentic f… | Python |
 | **[overtone](https://github.com/JonathanSolvesProblems/overtone)** | WCAG 2.1 audio description for an entire video archive, generated in place on Backblaze B2 so r… | Python |
-| **[maternal-guard-prompt-opinion-hackathon](https://github.com/JonathanSolvesProblems/maternal-guard-prompt-opinion-hackathon)** | MCP server and clinician dashboard for severe preeclampsia. Five tool returns become a one-clic… | TypeScript |
-| **[Viva-OpenAI-Build-Week](https://github.com/JonathanSolvesProblems/Viva-OpenAI-Build-Week)** | An automated oral exam for code: grade the understanding, not the artifact. Found a hidden defe… | TypeScript |
-| **[ledgerpilot](https://github.com/JonathanSolvesProblems/ledgerpilot)** | — | Python |
 <!-- SHIPPING-LOG:END -->
 
 <details>
