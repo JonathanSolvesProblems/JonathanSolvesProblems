@@ -22,11 +22,11 @@ Details and selected work at [**jonathansolvesproblems.com**](https://jonathanso
 | Project | What it is | Stack |
 | --- | --- | --- |
 | **[culprit](https://github.com/JonathanSolvesProblems/culprit)** | A stack trace for model decay. Walks DataHub's end-to-end ML lineage from a degraded production… | Python |
-| **[changelog-studio](https://github.com/JonathanSolvesProblems/changelog-studio)** | A Replit template. Connect GitHub or Linear, and it drafts your release note, publishes the pag… | TypeScript |
 | **[flakewarden](https://github.com/JonathanSolvesProblems/flakewarden)** | Agentic flaky-test triage and self-healing reviewer for UiPath Test Cloud. 90.7% triage accurac… | Python |
 | **[overtone](https://github.com/JonathanSolvesProblems/overtone)** | WCAG 2.1 audio description for an entire video archive, generated in place on Backblaze B2 so r… | Python |
 | **[maternal-guard-prompt-opinion-hackathon](https://github.com/JonathanSolvesProblems/maternal-guard-prompt-opinion-hackathon)** | MCP server and clinician dashboard for severe preeclampsia. Five tool returns become a one-clic… | TypeScript |
 | **[Viva-OpenAI-Build-Week](https://github.com/JonathanSolvesProblems/Viva-OpenAI-Build-Week)** | An automated oral exam for code: grade the understanding, not the artifact. Found a hidden defe… | TypeScript |
+| **[ledgerpilot](https://github.com/JonathanSolvesProblems/ledgerpilot)** | — | Python |
 <!-- SHIPPING-LOG:END -->
 
 <details>

@@ -18,35 +18,35 @@
 <text x="760" y="171.0" font-family="ui-monospace,'Cascadia Mono','SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="13" fill="#3FB950">LATEST</text>
 <rect x="32" y="184" width="836" height="30" rx="3" fill="#0E141B"/>
 <line x1="32" y1="199.0" x2="868" y2="199.0" stroke="#0B0F14" stroke-width="1" opacity="0.55"/>
-<text x="40" y="207.0" font-family="ui-monospace,'Cascadia Mono','SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="13" fill="#7D8590">2026-08-07</text>
-<text x="150" y="207.0" font-family="ui-monospace,'Cascadia Mono','SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="13.5" font-weight="600" fill="#E6EDF3">changelog-studio</text>
-<text x="560" y="207.0" font-family="ui-monospace,'Cascadia Mono','SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="13" fill="#FFB020">TypeScript</text>
+<text x="40" y="207.0" font-family="ui-monospace,'Cascadia Mono','SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="13" fill="#7D8590">2026-08-04</text>
+<text x="150" y="207.0" font-family="ui-monospace,'Cascadia Mono','SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="13.5" font-weight="600" fill="#E6EDF3">flakewarden</text>
+<text x="560" y="207.0" font-family="ui-monospace,'Cascadia Mono','SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="13" fill="#FFB020">Python</text>
 <text x="742" y="207.0" font-family="ui-monospace,'Cascadia Mono','SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="13" fill="#4A5560">SHIPPED</text>
 <rect x="32" y="220" width="836" height="30" rx="3" fill="#111820"/>
 <line x1="32" y1="235.0" x2="868" y2="235.0" stroke="#0B0F14" stroke-width="1" opacity="0.55"/>
-<text x="40" y="243.0" font-family="ui-monospace,'Cascadia Mono','SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="13" fill="#7D8590">2026-08-04</text>
-<text x="150" y="243.0" font-family="ui-monospace,'Cascadia Mono','SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="13.5" font-weight="600" fill="#E6EDF3">flakewarden</text>
+<text x="40" y="243.0" font-family="ui-monospace,'Cascadia Mono','SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="13" fill="#7D8590">2026-08-02</text>
+<text x="150" y="243.0" font-family="ui-monospace,'Cascadia Mono','SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="13.5" font-weight="600" fill="#E6EDF3">overtone</text>
 <text x="560" y="243.0" font-family="ui-monospace,'Cascadia Mono','SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="13" fill="#FFB020">Python</text>
 <text x="742" y="243.0" font-family="ui-monospace,'Cascadia Mono','SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="13" fill="#4A5560">SHIPPED</text>
 <rect x="32" y="256" width="836" height="30" rx="3" fill="#0E141B"/>
 <line x1="32" y1="271.0" x2="868" y2="271.0" stroke="#0B0F14" stroke-width="1" opacity="0.55"/>
-<text x="40" y="279.0" font-family="ui-monospace,'Cascadia Mono','SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="13" fill="#7D8590">2026-08-02</text>
-<text x="150" y="279.0" font-family="ui-monospace,'Cascadia Mono','SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="13.5" font-weight="600" fill="#E6EDF3">overtone</text>
-<text x="560" y="279.0" font-family="ui-monospace,'Cascadia Mono','SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="13" fill="#FFB020">Python</text>
+<text x="40" y="279.0" font-family="ui-monospace,'Cascadia Mono','SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="13" fill="#7D8590">2026-07-28</text>
+<text x="150" y="279.0" font-family="ui-monospace,'Cascadia Mono','SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="13.5" font-weight="600" fill="#E6EDF3">maternal-guard-prompt-opinion-hackathon</text>
+<text x="560" y="279.0" font-family="ui-monospace,'Cascadia Mono','SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="13" fill="#FFB020">TypeScript</text>
 <text x="742" y="279.0" font-family="ui-monospace,'Cascadia Mono','SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="13" fill="#4A5560">SHIPPED</text>
 <rect x="32" y="292" width="836" height="30" rx="3" fill="#111820"/>
 <line x1="32" y1="307.0" x2="868" y2="307.0" stroke="#0B0F14" stroke-width="1" opacity="0.55"/>
-<text x="40" y="315.0" font-family="ui-monospace,'Cascadia Mono','SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="13" fill="#7D8590">2026-07-28</text>
-<text x="150" y="315.0" font-family="ui-monospace,'Cascadia Mono','SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="13.5" font-weight="600" fill="#E6EDF3">maternal-guard-prompt-opinion-hackathon</text>
+<text x="40" y="315.0" font-family="ui-monospace,'Cascadia Mono','SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="13" fill="#7D8590">2026-07-19</text>
+<text x="150" y="315.0" font-family="ui-monospace,'Cascadia Mono','SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="13.5" font-weight="600" fill="#E6EDF3">Viva-OpenAI-Build-Week</text>
 <text x="560" y="315.0" font-family="ui-monospace,'Cascadia Mono','SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="13" fill="#FFB020">TypeScript</text>
 <text x="742" y="315.0" font-family="ui-monospace,'Cascadia Mono','SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="13" fill="#4A5560">SHIPPED</text>
 <rect x="32" y="328" width="836" height="30" rx="3" fill="#0E141B"/>
 <line x1="32" y1="343.0" x2="868" y2="343.0" stroke="#0B0F14" stroke-width="1" opacity="0.55"/>
 <text x="40" y="351.0" font-family="ui-monospace,'Cascadia Mono','SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="13" fill="#7D8590">2026-07-19</text>
-<text x="150" y="351.0" font-family="ui-monospace,'Cascadia Mono','SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="13.5" font-weight="600" fill="#E6EDF3">Viva-OpenAI-Build-Week</text>
-<text x="560" y="351.0" font-family="ui-monospace,'Cascadia Mono','SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="13" fill="#FFB020">TypeScript</text>
+<text x="150" y="351.0" font-family="ui-monospace,'Cascadia Mono','SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="13.5" font-weight="600" fill="#E6EDF3">ledgerpilot</text>
+<text x="560" y="351.0" font-family="ui-monospace,'Cascadia Mono','SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="13" fill="#FFB020">Python</text>
 <text x="742" y="351.0" font-family="ui-monospace,'Cascadia Mono','SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="13" fill="#4A5560">SHIPPED</text>
 <line x1="32" y1="380" x2="868" y2="380" stroke="#1C2733"/>
-<text x="32" y="410" font-family="ui-monospace,'Cascadia Mono','SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="12" letter-spacing="1.1" fill="#7D8590">53 REPOSITORIES   ·   9 LANGUAGES   ·   1,634 CONTRIBUTIONS THIS YEAR</text>
+<text x="32" y="410" font-family="ui-monospace,'Cascadia Mono','SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="12" letter-spacing="1.1" fill="#7D8590">52 REPOSITORIES   ·   9 LANGUAGES   ·   1,642 CONTRIBUTIONS THIS YEAR</text>
 <text x="868" y="410" font-family="ui-monospace,'Cascadia Mono','SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="11" text-anchor="end" fill="#4A5560">jonathansolvesproblems.com</text>
 </svg>
