@@ -2,9 +2,11 @@ name: Refresh shipping board
 
 on:
   schedule:
-    # Mondays at 06:17 UTC. Off the hour on purpose: scheduled jobs on the hour
-    # queue behind everyone else's and get delayed.
-    - cron: "17 6 * * 1"
+    # Daily at 06:17 UTC. Daily rather than weekly because pushes land every two
+    # or three days, so a weekly board would show stale rows most of the week.
+    # Off the hour on purpose: jobs scheduled on the hour queue behind everyone
+    # else's and get delayed.
+    - cron: "17 6 * * *"
   workflow_dispatch:
 
 permissions:
