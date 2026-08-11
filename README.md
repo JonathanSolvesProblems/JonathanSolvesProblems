@@ -28,11 +28,11 @@ Details and selected work at [**jonathansolvesproblems.com**](https://jonathanso
 | Project | What it is | Stack |
 | --- | --- | --- |
 | **[coldpath](https://github.com/JonathanSolvesProblems/coldpath)** | Prove whether an Arm binary can actually use the chip's matrix hardware. Static ISA verifier +… | Python |
+| **[assay](https://github.com/JonathanSolvesProblems/assay)** | Know if it's working. Skin measurement with an error bar, built on the YouCam Skin Analysis API. | TypeScript |
 | **[culprit](https://github.com/JonathanSolvesProblems/culprit)** | A stack trace for model decay. Walks DataHub's end-to-end ML lineage from a degraded production… | Python |
 | **[Motion-Capture-Hand](https://github.com/JonathanSolvesProblems/Motion-Capture-Hand)** | Hardware motion-capture hand that drives a rigged 3D hand in Blender in real time. An Arduino r… | C++ |
 | **[maternal-guard-prompt-opinion-hackathon](https://github.com/JonathanSolvesProblems/maternal-guard-prompt-opinion-hackathon)** | Winner, Agents Assemble: The Healthcare AI Endgame (4,335 participants). MCP server and clinici… | TypeScript |
 | **[flakewarden](https://github.com/JonathanSolvesProblems/flakewarden)** | 1st place, Test Cloud track, UiPath AgentHack 2026 (333+ submissions, 104 countries). Agentic f… | Python |
-| **[overtone](https://github.com/JonathanSolvesProblems/overtone)** | WCAG 2.1 audio description for an entire video archive, generated in place on Backblaze B2 so r… | Python |
 <!-- SHIPPING-LOG:END -->
 
 <details>
