@@ -1,5 +1,13 @@
 <img src="assets/banner.jpg" alt="Jonathan Andrei, Senior Full Stack Developer. github.com/JonathanSolvesProblems and jonathansolvesproblems.com. Python, TypeScript, React, Next.js, LLM Agents, RAG, AWS." width="100%">
 
+<!-- SHIPATON-CTA:START -->
+> **I'm looking for a few Android beta testers right now** (through September 2026, for the [RevenueCat Shipaton](https://shipaton.com)).
+>
+> I'm shipping **Cooldown**, a wishlist that saves you money by making you wait: add something you're tempted to buy, let it cool off, and watch the money you didn't spend add up.
+>
+> If you have an Android phone and two minutes: sign up (your email stays private) with **[this quick form](https://docs.google.com/forms/d/e/1FAIpQLSc4q3mTpD87RkIusSgHmmZU3uVm0Bphd-SZwB9HQPgxXxsuDw/viewform)**, I'll add you, then opt in to the **[closed test](https://play.google.com/apps/testing/com.jonathanandrei.cooldown)**. Thirty-second **[demo](https://www.youtube.com/watch?v=7eZKhWm5rdU)**. Happy to test yours back.
+<!-- SHIPATON-CTA:END -->
+
 I build software that actually ships. Most of what is below started as a deadline and
 ended as something that runs, against real data, in front of real users.
 

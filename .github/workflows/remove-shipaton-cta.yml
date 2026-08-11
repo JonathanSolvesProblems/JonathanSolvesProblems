@@ -1,0 +1,56 @@
+name: Remove Shipaton tester CTA after the deadline
+
+on:
+  schedule:
+    # The Shipaton runs through Sep 30. Strip the tester CTA on Oct 1 (07:00 UTC),
+    # a little after the daily board refresh (06:17) so the two never race.
+    # This fires every Oct 1, which is harmless: once the block is gone the job
+    # is a no-op. Trigger it early by hand from the Actions tab if plans change.
+    - cron: "0 7 1 10 *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  # Share the refresh job's group so a board rebuild and this removal never push
+  # over each other.
+  group: refresh-profile
+  cancel-in-progress: false
+
+jobs:
+  remove-cta:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Strip the CTA block from README
+        run: |
+          python3 - <<'PY'
+          import re, pathlib
+          p = pathlib.Path("README.md")
+          text = p.read_text(encoding="utf-8")
+          new = re.sub(
+              r"\n?<!-- SHIPATON-CTA:START -->.*?<!-- SHIPATON-CTA:END -->\n?",
+              "\n",
+              text,
+              flags=re.S,
+          )
+          if new != text:
+              p.write_text(new, encoding="utf-8")
+              print("removed CTA block")
+          else:
+              print("no CTA block found; nothing to do")
+          PY
+
+      - name: Commit if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          if git diff --quiet --staged; then
+            echo "nothing to remove"
+          else
+            git commit -m "Remove Shipaton tester CTA after the deadline"
+            git push
+          fi
