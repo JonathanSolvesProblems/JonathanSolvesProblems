@@ -27,12 +27,12 @@ Details and selected work at [**jonathansolvesproblems.com**](https://jonathanso
 <!-- SHIPPING-LOG:START -->
 | Project | What it is | Stack |
 | --- | --- | --- |
-| **[unsay](https://github.com/JonathanSolvesProblems/unsay)** | Unsay: an AI medication-safety agent that goes back and un-says what it told you. Bitemporal ag… | Python |
+| **[still-here](https://github.com/JonathanSolvesProblems/still-here)** | 516 dogs have an intake record at the Austin animal shelter and no outcome record. This is the… | Python |
 | **[bloom](https://github.com/JonathanSolvesProblems/bloom)** | — | TypeScript |
+| **[unsay](https://github.com/JonathanSolvesProblems/unsay)** | Unsay: an AI medication-safety agent that goes back and un-says what it told you. Bitemporal ag… | Python |
 | **[assay](https://github.com/JonathanSolvesProblems/assay)** | Know if it's working. Skin measurement with an error bar, built on the YouCam Skin Analysis API. | TypeScript |
 | **[coldpath](https://github.com/JonathanSolvesProblems/coldpath)** | Prove whether an Arm binary can actually use the chip's matrix hardware. Static ISA verifier +… | Python |
 | **[overtone](https://github.com/JonathanSolvesProblems/overtone)** | WCAG 2.1 audio description for an entire video archive, generated in place on Backblaze B2 so r… | Python |
-| **[culprit](https://github.com/JonathanSolvesProblems/culprit)** | A stack trace for model decay. Walks DataHub's end-to-end ML lineage from a degraded production… | Python |
 <!-- SHIPPING-LOG:END -->
 
 <details>
