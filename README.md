@@ -29,7 +29,7 @@ Details and selected work at [**jonathansolvesproblems.com**](https://jonathanso
 | --- | --- | --- |
 | **[still-here](https://github.com/JonathanSolvesProblems/still-here)** | 510 dogs have an intake record at the Austin animal shelter and no outcome record. This is the… | Python |
 | **[assay](https://github.com/JonathanSolvesProblems/assay)** | Know if it's working. Skin measurement with an error bar, built on the YouCam Skin Analysis API. | TypeScript |
-| **[bloom](https://github.com/JonathanSolvesProblems/bloom)** | — | TypeScript |
+| **[bloom](https://github.com/JonathanSolvesProblems/bloom)** | AI client-retention agent for salons: finds clients drifting from their own visit rhythm and dr… | TypeScript |
 | **[unsay](https://github.com/JonathanSolvesProblems/unsay)** | Unsay: an AI medication-safety agent that goes back and un-says what it told you. Bitemporal ag… | Python |
 | **[coldpath](https://github.com/JonathanSolvesProblems/coldpath)** | Prove whether an Arm binary can actually use the chip's matrix hardware. Static ISA verifier +… | Python |
 | **[overtone](https://github.com/JonathanSolvesProblems/overtone)** | WCAG 2.1 audio description for an entire video archive, generated in place on Backblaze B2 so r… | Python |
