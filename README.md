@@ -28,11 +28,11 @@ Details and selected work at [**jonathansolvesproblems.com**](https://jonathanso
 | Project | What it is | Stack |
 | --- | --- | --- |
 | **[dailies](https://github.com/JonathanSolvesProblems/dailies)** | Smart-glasses POV footage of a film shoot becomes queryable continuity records. Gemini reads ev… | Python |
+| **[assay](https://github.com/JonathanSolvesProblems/assay)** | Know if it's working. Skin measurement with an error bar, built on the YouCam Skin Analysis API. | TypeScript |
 | **[elbow-room](https://github.com/JonathanSolvesProblems/elbow-room)** | Before you buy the couch, find out whether it can get up the stairs. A canvas floor and route p… | JavaScript |
 | **[nightshift](https://github.com/JonathanSolvesProblems/nightshift)** | Autonomous prior-art agent. Reads 171,695 patents overnight to find the references that answer… | Python |
 | **[sentry-dedupe-leak-repro](https://github.com/JonathanSolvesProblems/sentry-dedupe-leak-repro)** | Runnable reproduction and measurement harness for a memory retention bug in the Sentry Python S… | Python |
 | **[still-here](https://github.com/JonathanSolvesProblems/still-here)** | 510 dogs have an intake record at the Austin animal shelter and no outcome record. This is the… | Python |
-| **[assay](https://github.com/JonathanSolvesProblems/assay)** | Know if it's working. Skin measurement with an error bar, built on the YouCam Skin Analysis API. | TypeScript |
 <!-- SHIPPING-LOG:END -->
 
 <details>
