@@ -28,11 +28,11 @@ Details and selected work at [**jonathansolvesproblems.com**](https://jonathanso
 | Project | What it is | Stack |
 | --- | --- | --- |
 | **[sticker](https://github.com/JonathanSolvesProblems/sticker)** | Calls licensed pharmacies to find what a prescription actually costs in cash, and prices every… | Python |
+| **[northbound](https://github.com/JonathanSolvesProblems/northbound)** | Load board that knows which US freight a Canadian truck can legally haul. RoadStar Hackathon 20… | TypeScript |
 | **[dailies](https://github.com/JonathanSolvesProblems/dailies)** | Smart-glasses POV footage of a film shoot becomes queryable continuity records. Gemini reads ev… | Python |
 | **[assay](https://github.com/JonathanSolvesProblems/assay)** | Know if it's working. Skin measurement with an error bar, built on the YouCam Skin Analysis API. | TypeScript |
 | **[elbow-room](https://github.com/JonathanSolvesProblems/elbow-room)** | Before you buy the couch, find out whether it can get up the stairs. A canvas floor and route p… | JavaScript |
 | **[nightshift](https://github.com/JonathanSolvesProblems/nightshift)** | Autonomous prior-art agent. Reads 171,695 patents overnight to find the references that answer… | Python |
-| **[sentry-dedupe-leak-repro](https://github.com/JonathanSolvesProblems/sentry-dedupe-leak-repro)** | Runnable reproduction and measurement harness for a memory retention bug in the Sentry Python S… | Python |
 <!-- SHIPPING-LOG:END -->
 
 <details>
