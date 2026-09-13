@@ -27,9 +27,9 @@ Details and selected work at [**jonathansolvesproblems.com**](https://jonathanso
 <!-- SHIPPING-LOG:START -->
 | Project | What it is | Stack |
 | --- | --- | --- |
-| **[northbound](https://github.com/JonathanSolvesProblems/northbound)** | Load board that knows which US freight a Canadian truck can legally haul. RoadStar Hackathon 20… | TypeScript |
-| **[daythirty](https://github.com/JonathanSolvesProblems/daythirty)** | An agent that works a California health insurance denial end to end. Statutory deadline, publis… | Python |
 | **[sticker](https://github.com/JonathanSolvesProblems/sticker)** | Calls licensed pharmacies to find what a prescription actually costs in cash, and prices every… | Python |
+| **[daythirty](https://github.com/JonathanSolvesProblems/daythirty)** | An agent that works a California health insurance denial end to end. Statutory deadline, publis… | Python |
+| **[northbound](https://github.com/JonathanSolvesProblems/northbound)** | Load board that knows which US freight a Canadian truck can legally haul. RoadStar Hackathon 20… | TypeScript |
 | **[dailies](https://github.com/JonathanSolvesProblems/dailies)** | Smart-glasses POV footage of a film shoot becomes queryable continuity records. Gemini reads ev… | Python |
 | **[assay](https://github.com/JonathanSolvesProblems/assay)** | Know if it's working. Skin measurement with an error bar, built on the YouCam Skin Analysis API. | TypeScript |
 | **[elbow-room](https://github.com/JonathanSolvesProblems/elbow-room)** | Before you buy the couch, find out whether it can get up the stairs. A canvas floor and route p… | JavaScript |
