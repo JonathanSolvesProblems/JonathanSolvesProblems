@@ -27,12 +27,12 @@ Details and selected work at [**jonathansolvesproblems.com**](https://jonathanso
 <!-- SHIPPING-LOG:START -->
 | Project | What it is | Stack |
 | --- | --- | --- |
+| **[eyeline](https://github.com/JonathanSolvesProblems/eyeline)** | Seated mixed reality previs for VFX shots: block the shot on your table with your hands and lea… | TypeScript |
 | **[will-it-focus](https://github.com/JonathanSolvesProblems/will-it-focus)** | An autofocus compatibility agent for cameras, lenses and adapters, built on Sanity Context. Eve… | TypeScript |
 | **[bloom](https://github.com/JonathanSolvesProblems/bloom)** | AI client-retention agent for salons: finds clients drifting from their own visit rhythm and dr… | TypeScript |
 | **[unsay](https://github.com/JonathanSolvesProblems/unsay)** | Unsay: an AI medication-safety agent that goes back and un-says what it told you. Bitemporal ag… | Python |
 | **[sticker](https://github.com/JonathanSolvesProblems/sticker)** | Calls licensed pharmacies to find what a prescription actually costs in cash, and prices every… | Python |
 | **[daythirty](https://github.com/JonathanSolvesProblems/daythirty)** | An agent that works a California health insurance denial end to end. Statutory deadline, publis… | Python |
-| **[northbound](https://github.com/JonathanSolvesProblems/northbound)** | Load board that knows which US freight a Canadian truck can legally haul. RoadStar Hackathon 20… | TypeScript |
 <!-- SHIPPING-LOG:END -->
 
 <details>
