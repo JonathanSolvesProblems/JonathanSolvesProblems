@@ -1,12 +1,5 @@
 <img src="assets/banner.jpg" alt="Jonathan Andrei, Senior Full Stack Developer. github.com/JonathanSolvesProblems and jonathansolvesproblems.com. Python, TypeScript, React, Next.js, LLM Agents, RAG, AWS." width="100%">
 
-<!-- SHIPATON-CTA:START -->
-> **I'm looking for a few Android beta testers right now** (through September 2026, for the [RevenueCat Shipaton](https://shipaton.com)).
->
-> I'm shipping **Elbow Room Mobile**: point your phone at a room and it measures the place, works out what you'd need to buy to renovate it, and tells you whether the sofa you're about to order can actually get up your stairs. Every furniture app shows you the sofa in the room; none of them tell you it can't get up the stairs.
->
-> If you have an Android phone and two minutes: sign up (your email stays private) with **[this quick form](https://docs.google.com/forms/d/e/1FAIpQLScqcwbK-zQkTl8ZuONInbX4OWp4Yq305slCRiBjJbwt7T3mSg/viewform)**, I'll add you, then opt in to the **[closed test](https://play.google.com/apps/testing/com.jonathanandrei.elbowroom)**. Two-minute **[demo](https://www.youtube.com/watch?v=wrayVbYHAH0)**. Happy to test yours back.
-<!-- SHIPATON-CTA:END -->
 
 I build software that actually ships. Most of what is below started as a deadline and
 ended as something that runs, against real data, in front of real users.
