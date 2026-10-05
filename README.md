@@ -20,12 +20,12 @@ Details and selected work at [**jonathansolvesproblems.com**](https://jonathanso
 <!-- SHIPPING-LOG:START -->
 | Project | What it is | Stack |
 | --- | --- | --- |
-| **[world-clock](https://github.com/JonathanSolvesProblems/world-clock)** | A Kaggle benchmark that asks frontier models what time it is, graded by the IANA time zone data… | Python |
+| **[world-clock](https://github.com/JonathanSolvesProblems/world-clock)** | A Kaggle benchmark that asks 19 AI models what time it is, grades every answer against the IANA… | Python |
+| **[moxie-library](https://github.com/JonathanSolvesProblems/moxie-library)** | A library of one writer's 16 years of work, with a desk that remembers. | JavaScript |
 | **[eyeline](https://github.com/JonathanSolvesProblems/eyeline)** | Seated mixed reality previs for VFX shots: block the shot on your table with your hands and lea… | TypeScript |
 | **[will-it-focus](https://github.com/JonathanSolvesProblems/will-it-focus)** | An autofocus compatibility agent for cameras, lenses and adapters, built on Sanity Context. Eve… | TypeScript |
 | **[bloom](https://github.com/JonathanSolvesProblems/bloom)** | AI client-retention agent for salons: finds clients drifting from their own visit rhythm and dr… | TypeScript |
 | **[unsay](https://github.com/JonathanSolvesProblems/unsay)** | Unsay: an AI medication-safety agent that goes back and un-says what it told you. Bitemporal ag… | Python |
-| **[sticker](https://github.com/JonathanSolvesProblems/sticker)** | Calls licensed pharmacies to find what a prescription actually costs in cash, and prices every… | Python |
 <!-- SHIPPING-LOG:END -->
 
 <details>
