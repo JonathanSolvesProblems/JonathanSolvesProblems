@@ -20,7 +20,7 @@ Details and selected work at [**jonathansolvesproblems.com**](https://jonathanso
 <!-- SHIPPING-LOG:START -->
 | Project | What it is | Stack |
 | --- | --- | --- |
-| **[nature-bingo](https://github.com/JonathanSolvesProblems/nature-bingo)** | A printable bingo card of what is most likely out this week near your door. Open model, runs lo… | Python |
+| **[nature-bingo](https://github.com/JonathanSolvesProblems/nature-bingo)** | A bingo card of the 16 things most likely out this October near your town. TabPFN, an open-weig… | Python |
 | **[world-clock](https://github.com/JonathanSolvesProblems/world-clock)** | A Kaggle benchmark that asks 19 AI models what time it is, grades every answer against the IANA… | Python |
 | **[moxie-library](https://github.com/JonathanSolvesProblems/moxie-library)** | A library of one writer's 16 years of work, with a desk that remembers. | JavaScript |
 | **[eyeline](https://github.com/JonathanSolvesProblems/eyeline)** | Seated mixed reality previs for VFX shots: block the shot on your table with your hands and lea… | TypeScript |
