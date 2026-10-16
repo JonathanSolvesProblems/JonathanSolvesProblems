@@ -20,12 +20,12 @@ Details and selected work at [**jonathansolvesproblems.com**](https://jonathanso
 <!-- SHIPPING-LOG:START -->
 | Project | What it is | Stack |
 | --- | --- | --- |
+| **[watermark](https://github.com/JonathanSolvesProblems/watermark)** | When a Ring flood sensor finds water, the camera goes to the water: a claim-ready evidence pack… | Python |
+| **[ring-partner-py](https://github.com/JonathanSolvesProblems/ring-partner-py)** | ringpartner: a typed Python client for the Ring Partner API (devices, sensors, media downloads,… | Python |
+| **[sans-calque](https://github.com/JonathanSolvesProblems/sans-calque)** | English to Canadian French on an open 4B model fine-tuned on government text; every flag cites… | Python |
 | **[nature-bingo](https://github.com/JonathanSolvesProblems/nature-bingo)** | A bingo card of the 16 things most likely out this October near your town. TabPFN, an open-weig… | Python |
 | **[world-clock](https://github.com/JonathanSolvesProblems/world-clock)** | A Kaggle benchmark that asks 19 AI models what time it is, grades every answer against the IANA… | Python |
 | **[moxie-library](https://github.com/JonathanSolvesProblems/moxie-library)** | A library of one writer's 16 years of work, with a desk that remembers. | JavaScript |
-| **[eyeline](https://github.com/JonathanSolvesProblems/eyeline)** | Seated mixed reality previs for VFX shots: block the shot on your table with your hands and lea… | TypeScript |
-| **[will-it-focus](https://github.com/JonathanSolvesProblems/will-it-focus)** | An autofocus compatibility agent for cameras, lenses and adapters, built on Sanity Context. Eve… | TypeScript |
-| **[bloom](https://github.com/JonathanSolvesProblems/bloom)** | AI client-retention agent for salons: finds clients drifting from their own visit rhythm and dr… | TypeScript |
 <!-- SHIPPING-LOG:END -->
 
 <details>
