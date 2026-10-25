@@ -20,12 +20,12 @@ Details and selected work at [**jonathansolvesproblems.com**](https://jonathanso
 <!-- SHIPPING-LOG:START -->
 | Project | What it is | Stack |
 | --- | --- | --- |
+| **[floodplain](https://github.com/JonathanSolvesProblems/floodplain)** | Runs the test suites of a package's dependents before and after a release, in forked Nebius San… | Python |
+| **[setpiece](https://github.com/JonathanSolvesProblems/setpiece)** | Seated mixed reality previs for VFX shots: block the shot on your table with your hands and lea… | TypeScript |
 | **[nightshift](https://github.com/JonathanSolvesProblems/nightshift)** | Autonomous prior-art agent. Reads 171,695 patents overnight to find the references that answer… | Python |
 | **[watermark](https://github.com/JonathanSolvesProblems/watermark)** | When a Ring flood sensor finds water, Watermark makes a Ring camera record it and builds one ev… | Python |
-| **[floodplain](https://github.com/JonathanSolvesProblems/floodplain)** | Runs the test suites of a package's dependents before and after a release, in forked Nebius San… | Python |
 | **[ringwire](https://github.com/JonathanSolvesProblems/ringwire)** | ringwire: a typed Python client for the Ring Partner API, built around the Early Access sensor… | Python |
 | **[sans-calque](https://github.com/JonathanSolvesProblems/sans-calque)** | English to Canadian French on an open 4B model fine-tuned on government text; every flag cites… | Python |
-| **[dailies](https://github.com/JonathanSolvesProblems/dailies)** | Smart-glasses POV footage of a film shoot becomes queryable continuity records. Gemini reads ev… | Python |
 <!-- SHIPPING-LOG:END -->
 
 <details>
