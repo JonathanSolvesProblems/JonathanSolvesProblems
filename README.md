@@ -20,12 +20,12 @@ Details and selected work at [**jonathansolvesproblems.com**](https://jonathanso
 <!-- SHIPPING-LOG:START -->
 | Project | What it is | Stack |
 | --- | --- | --- |
+| **[swatchless](https://github.com/JonathanSolvesProblems/swatchless)** | A colour-match desk for hair retailers: the customer wearing the shade before they buy, on YouC… | TypeScript |
 | **[floodplain](https://github.com/JonathanSolvesProblems/floodplain)** | Runs the test suites of a package's dependents before and after a release, in forked Nebius San… | Python |
+| **[will-it-focus](https://github.com/JonathanSolvesProblems/will-it-focus)** | An autofocus compatibility agent for cameras, lenses and adapters, built on Sanity Context. Eve… | TypeScript |
 | **[orvandel-wake-now](https://github.com/JonathanSolvesProblems/orvandel-wake-now)** | Wake Now for Orvandel, a free browser MMORPG: planning docs and source built with the Devpost L… | TypeScript |
 | **[last-seen](https://github.com/JonathanSolvesProblems/last-seen)** | A drone that finds a person from one photo, asks a human before it follows, and keeps their pos… | Python |
 | **[spare-thumbs](https://github.com/JonathanSolvesProblems/spare-thumbs)** | Gemma 4 on my laptop answers 'can we move the meeting?' in my words, from my real Google Calend… | Python |
-| **[setpiece](https://github.com/JonathanSolvesProblems/setpiece)** | Seated mixed reality previs for VFX shots: block the shot on your table with your hands and lea… | TypeScript |
-| **[nightshift](https://github.com/JonathanSolvesProblems/nightshift)** | Autonomous prior-art agent. Reads 171,695 patents overnight to find the references that answer… | Python |
 <!-- SHIPPING-LOG:END -->
 
 <details>
