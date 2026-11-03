@@ -20,12 +20,12 @@ Details and selected work at [**jonathansolvesproblems.com**](https://jonathanso
 <!-- SHIPPING-LOG:START -->
 | Project | What it is | Stack |
 | --- | --- | --- |
-| **[call-it](https://github.com/JonathanSolvesProblems/call-it)** | Watches your game through OBS and runs prediction bets in your Twitch chat. Built in OpenAI Cod… | TypeScript |
+| **[final-buzzer](https://github.com/JonathanSolvesProblems/final-buzzer)** | Every official paid at the final buzzer. A youth basketball tournament's money, run by an agent… | TypeScript |
 | **[floodplain](https://github.com/JonathanSolvesProblems/floodplain)** | Runs the test suites of a package's dependents before and after a release, in forked Nebius San… | Python |
+| **[call-it](https://github.com/JonathanSolvesProblems/call-it)** | Watches your game through OBS and runs prediction bets in your Twitch chat. Built in OpenAI Cod… | TypeScript |
 | **[possessed](https://github.com/JonathanSolvesProblems/possessed)** | Your link checker is green. Some of those links now open a casino. Gemma 4 reads the pages and… | Python |
 | **[swatchless](https://github.com/JonathanSolvesProblems/swatchless)** | A colour-match desk for hair retailers: the customer wearing the shade before they buy, on YouC… | TypeScript |
 | **[setpiece](https://github.com/JonathanSolvesProblems/setpiece)** | Seated mixed reality previs for VFX shots: block the shot on your table with your hands and lea… | TypeScript |
-| **[will-it-focus](https://github.com/JonathanSolvesProblems/will-it-focus)** | An autofocus compatibility agent for cameras, lenses and adapters, built on Sanity Context. Eve… | TypeScript |
 <!-- SHIPPING-LOG:END -->
 
 <details>
