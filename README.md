@@ -21,11 +21,11 @@ Details and selected work at [**jonathansolvesproblems.com**](https://jonathanso
 | Project | What it is | Stack |
 | --- | --- | --- |
 | **[setpiece](https://github.com/JonathanSolvesProblems/setpiece)** | Seated mixed reality previs for VFX shots: block the shot on your table with your hands and lea… | TypeScript |
+| **[world-clock](https://github.com/JonathanSolvesProblems/world-clock)** | A Kaggle benchmark that asks 19 AI models what time it is, grades every answer against the IANA… | Python |
 | **[floodplain](https://github.com/JonathanSolvesProblems/floodplain)** | Runs the test suites of a package's dependents before and after a release, in forked Nebius San… | Python |
 | **[final-buzzer](https://github.com/JonathanSolvesProblems/final-buzzer)** | Every official paid at the final buzzer. A youth basketball tournament's money, run by an agent… | TypeScript |
 | **[call-it](https://github.com/JonathanSolvesProblems/call-it)** | Watches your game through OBS and runs prediction bets in your Twitch chat. Built in OpenAI Cod… | TypeScript |
 | **[possessed](https://github.com/JonathanSolvesProblems/possessed)** | Your link checker is green. Some of those links now open a casino. Gemma 4 reads the pages and… | Python |
-| **[swatchless](https://github.com/JonathanSolvesProblems/swatchless)** | A colour-match desk for hair retailers: the customer wearing the shade before they buy, on YouC… | TypeScript |
 <!-- SHIPPING-LOG:END -->
 
 <details>
