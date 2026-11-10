@@ -21,8 +21,8 @@ Details and selected work at [**jonathansolvesproblems.com**](https://jonathanso
 | Project | What it is | Stack |
 | --- | --- | --- |
 | **[setpiece](https://github.com/JonathanSolvesProblems/setpiece)** | Seated mixed reality previs for VFX shots: block the shot on your table with your hands and lea… | TypeScript |
-| **[floorcount](https://github.com/JonathanSolvesProblems/floorcount)** | A salsa practice Lens for SPECS. The count lights up on your own floor, so you stop walking bac… | TypeScript |
 | **[final-buzzer](https://github.com/JonathanSolvesProblems/final-buzzer)** | Every official paid at the final buzzer. A youth basketball tournament's money, run by an agent… | TypeScript |
+| **[floorcount](https://github.com/JonathanSolvesProblems/floorcount)** | A salsa practice Lens for SPECS. The count lights up on your own floor, so you stop walking bac… | TypeScript |
 | **[world-clock](https://github.com/JonathanSolvesProblems/world-clock)** | A Kaggle benchmark that asks 19 AI models what time it is, grades every answer against the IANA… | Python |
 | **[floodplain](https://github.com/JonathanSolvesProblems/floodplain)** | Runs the test suites of a package's dependents before and after a release, in forked Nebius San… | Python |
 | **[call-it](https://github.com/JonathanSolvesProblems/call-it)** | Watches your game through OBS and runs prediction bets in your Twitch chat. Built in OpenAI Cod… | TypeScript |
