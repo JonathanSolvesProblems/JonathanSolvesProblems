@@ -20,12 +20,12 @@ Details and selected work at [**jonathansolvesproblems.com**](https://jonathanso
 <!-- SHIPPING-LOG:START -->
 | Project | What it is | Stack |
 | --- | --- | --- |
-| **[keep-until](https://github.com/JonathanSolvesProblems/keep-until)** | Food bank sort-table app: on-device Gemini Nano reads the best-before date on each donated item… | TypeScript |
-| **[setpiece](https://github.com/JonathanSolvesProblems/setpiece)** | Seated mixed reality previs for VFX shots: block the shot on your table with your hands and lea… | TypeScript |
-| **[floodplain](https://github.com/JonathanSolvesProblems/floodplain)** | Runs the test suites of a package's dependents before and after a release, in forked Nebius San… | Python |
+| **[keep-until](https://github.com/JonathanSolvesProblems/keep-until)** | Food bank sort-table app. Gemini Nano checks each photo on the laptop, the cloud reads the date… | TypeScript |
 | **[foefall](https://github.com/JonathanSolvesProblems/foefall)** | Every monster shows where it will strike. Make them strike each other. A daily tactics puzzle f… | TypeScript |
+| **[unskipped](https://github.com/JonathanSolvesProblems/unskipped)** | Your beta reader's face and pulse leave page flags in your manuscript. Presage SmartSpectra on… | JavaScript |
+| **[floodplain](https://github.com/JonathanSolvesProblems/floodplain)** | Runs the test suites of a package's dependents before and after a release, in forked Nebius San… | Python |
+| **[setpiece](https://github.com/JonathanSolvesProblems/setpiece)** | Seated mixed reality previs for VFX shots: block the shot on your table with your hands and lea… | TypeScript |
 | **[call-it](https://github.com/JonathanSolvesProblems/call-it)** | Watches your game through OBS and runs prediction bets in your Twitch chat. Built in OpenAI Cod… | TypeScript |
-| **[already-owned](https://github.com/JonathanSolvesProblems/already-owned)** | Already Owned: a UGREEN AI NAS Skill that writes the insurer's contents list from photos taken… | Python |
 <!-- SHIPPING-LOG:END -->
 
 <details>
