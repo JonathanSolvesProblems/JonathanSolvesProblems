@@ -20,12 +20,12 @@ Details and selected work at [**jonathansolvesproblems.com**](https://jonathanso
 <!-- SHIPPING-LOG:START -->
 | Project | What it is | Stack |
 | --- | --- | --- |
+| **[swatchless](https://github.com/JonathanSolvesProblems/swatchless)** | A colour-match desk for hair retailers: the customer wearing the shade before they buy, on YouC… | TypeScript |
 | **[keep-until](https://github.com/JonathanSolvesProblems/keep-until)** | Food bank sort-table app. Gemini Nano checks each photo on the laptop, the cloud reads the date… | TypeScript |
-| **[unskipped](https://github.com/JonathanSolvesProblems/unskipped)** | Your beta reader's face and pulse leave page flags in your manuscript. Presage SmartSpectra on… | JavaScript |
 | **[floodplain](https://github.com/JonathanSolvesProblems/floodplain)** | Runs the test suites of a package's dependents before and after a release, in forked Nebius San… | Python |
+| **[unskipped](https://github.com/JonathanSolvesProblems/unskipped)** | Your beta reader's face and pulse leave page flags in your manuscript. Presage SmartSpectra on… | JavaScript |
 | **[foefall](https://github.com/JonathanSolvesProblems/foefall)** | Every monster shows where it will strike. Make them strike each other. A daily tactics puzzle f… | TypeScript |
 | **[setpiece](https://github.com/JonathanSolvesProblems/setpiece)** | Seated mixed reality previs for VFX shots: block the shot on your table with your hands and lea… | TypeScript |
-| **[call-it](https://github.com/JonathanSolvesProblems/call-it)** | Watches your game through OBS and runs prediction bets in your Twitch chat. Built in OpenAI Cod… | TypeScript |
 <!-- SHIPPING-LOG:END -->
 
 <details>
