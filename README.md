@@ -21,11 +21,11 @@ Details and selected work at [**jonathansolvesproblems.com**](https://jonathanso
 | Project | What it is | Stack |
 | --- | --- | --- |
 | **[keep-until](https://github.com/JonathanSolvesProblems/keep-until)** | Food bank sort-table app. Gemini Nano checks each photo on the laptop, the cloud reads the date… | TypeScript |
+| **[oracle-bones](https://github.com/JonathanSolvesProblems/oracle-bones)** | Rebuild a program with no source code by questioning the original binary. A Kiro power, and Qui… | TypeScript |
 | **[quickened](https://github.com/JonathanSolvesProblems/quickened)** | Quickened: QUICK-2's method in a browser. An independent rebuild, not a FEMA product. Built pag… | JavaScript |
 | **[floodplain](https://github.com/JonathanSolvesProblems/floodplain)** | Runs the test suites of a package's dependents before and after a release, in forked Nebius San… | Python |
 | **[swatchless](https://github.com/JonathanSolvesProblems/swatchless)** | A colour-match desk for hair retailers: the customer wearing the shade before they buy, on YouC… | TypeScript |
 | **[unskipped](https://github.com/JonathanSolvesProblems/unskipped)** | Your beta reader's face and pulse leave page flags in your manuscript. Presage SmartSpectra on… | JavaScript |
-| **[foefall](https://github.com/JonathanSolvesProblems/foefall)** | Every monster shows where it will strike. Make them strike each other. A daily tactics puzzle f… | TypeScript |
 <!-- SHIPPING-LOG:END -->
 
 <details>
